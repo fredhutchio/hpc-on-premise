@@ -1,31 +1,33 @@
-#### [[course and class]] ####
+# High Performance Computing with Fred Hutch On-Premise Compute
+# Class 1: Introduction to the environment
 
-#### Before class ####
+## Objectives
 
-# share URL to hack.md
-# check software installation
+Welcome to XXX from fredhutch.io! 
+This course introduces you to XXX,
+including:
+- 
 
-#### Welcome ####
+This class will allow you to begin performing your own analyses on the Hutch on-premise HPC resources, `rhino` and `gizmo`.
 
-# instructor introduction
-# overview of fredhutch.io
-# sign in
-# learner introductions and motivation
-# overview course philosophy, how to stay engaged
-# course objectives:
+By the end of this lesson,
+you should be able to:
+-  
 
-#### Objectives ####
-
-# Today:
-#
-
-#### Subheading ####
+## Getting started
 
 
-#### Wrapping up ####
 
-# make sure work is saved
-# review how to get back into work
-# review objectives
-# preview next class's objectives
-# remind to sign in
+
+## Wrapping up
+
+make sure work is saved
+
+review how to get back into work
+
+review objectives
+
+preview next class's objectives
+
+## Errata
+

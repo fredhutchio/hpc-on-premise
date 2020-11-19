@@ -1,15 +1,26 @@
-#### [[course and class]] ####
+# High Performance Computing with Fred Hutch On-Premise Compute
+# Class 2: 
 
-#### Objectives ####
+## Objectives
 
-# review previous class's objectives
-# Today:
-#
+By the end of this lesson,
+you should be able to:
+-  
 
-#### Subheading ####
+## Getting started
 
 
-#### Wrapping up ####
 
-# review objectives
-# preview next class's objectives
+
+## Wrapping up
+
+make sure work is saved
+
+review how to get back into work
+
+review objectives
+
+preview next class's objectives
+
+## Errata
+
